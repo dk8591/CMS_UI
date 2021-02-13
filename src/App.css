@@ -1,0 +1,28 @@
+@media all and (min-width: 480px) {
+  .Login,.Addpost {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .Addpost form {
+    margin: 0 auto;
+    max-width: 500px;
+  }
+  .Detailspage{
+    margin: 0 auto;
+
+  }
+  .align{   
+    padding: 40px;
+  }
+  .scroll{
+    overflow: auto visible !important;
+    max-height: 60vh !important;
+  }
+  .jumbotron{
+    background-color: #FFFFFF !important;
+  }
+}
